@@ -1,0 +1,4 @@
+.history/
+test1-backups/
+*.lck
+*.kicad_prl

@@ -1,0 +1,11 @@
+Info: Processing symbol 'J1:'.
+Info: Processing symbol 'J2:'.
+Info: Processing symbol 'J3:'.
+Info: Processing symbol 'J4:'.
+Info: Processing symbol 'J5:'.
+Info: Processing symbol 'J6:'.
+Info: Processing symbol 'U1:Seeed_Studio_XIAO_Series:XIAO-ESP32-C3-SMD'.
+Error: Cannot add U1 (footprint 'Seeed_Studio_XIAO_Series:XIAO-ESP32-C3-SMD' not found).
+
+
+Info: Total warnings: 0, errors: 1.
