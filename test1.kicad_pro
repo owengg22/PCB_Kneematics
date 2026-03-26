@@ -473,7 +473,7 @@
   },
   "meta": {
     "filename": "test1.kicad_pro",
-    "version": 3
+    "version": 1
   },
   "net_settings": {
     "classes": [
@@ -488,17 +488,15 @@
         "microvia_drill": 0.1,
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
-        "tuning_profile": "",
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
       }
     ],
     "meta": {
-      "version": 5
+      "version": 3
     },
     "net_colors": null,
     "netclass_assignments": null,
@@ -506,10 +504,14 @@
   },
   "pcbnew": {
     "last_paths": {
+      "gencad": "",
       "idf": "",
       "netlist": "",
       "plot": "",
+      "pos_files": "",
       "specctra_dsn": "",
+      "step": "",
+      "svg": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""

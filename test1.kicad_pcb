@@ -2188,15 +2188,26 @@
 		)
 	)
 	(gr_rect
-		(start 40.1723 47.705164)
-		(end 110.1723 77.705164)
+		(start 40 45)
+		(end 110 80)
 		(stroke
 			(width 0.2)
 			(type default)
 		)
 		(fill no)
 		(layer "F.Cu")
-		(uuid "22ea0671-adc0-4c44-9c0a-aad8c565961a")
+		(uuid "244c5d75-8ad5-4b20-b32a-fecd594d7056")
+	)
+	(gr_rect
+		(start 40 48)
+		(end 110 80)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "2bf68495-a0e2-4be5-8308-ce66b9729435")
 	)
 	(segment
 		(start 92.5 72.5)
